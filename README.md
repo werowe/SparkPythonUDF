@@ -1,4 +1,4 @@
-This Jupyter notebook demonstrates how to use PySpark to create, manipulate, and transform a DataFrame and its underlying RDD, including converting string values to an integer representation using custom logic.
+[This Jupyter notebook](https://github.com/werowe/SparkPythonUDF/blob/master/SparkUDF.ipynb) demonstrates how to use PySpark to create, manipulate, and transform a DataFrame and its underlying RDD, including converting string values to an integer representation using custom logic.
 
 ---
 
